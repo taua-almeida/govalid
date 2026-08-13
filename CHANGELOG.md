@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.9.0](https://github.com/taua-almeida/govalid/commits/v1.9.0) - 2026-08-13
+
 ## [v1.9.0](https://github.com/sivchari/govalid/compare/v1.8.0...v1.9.0) - 2026-03-26
 - ci(deps): bump actions/github-script from 7 to 8 by @dependabot[bot] in https://github.com/sivchari/govalid/pull/208
 - docs: improve README readability by @sivchari in https://github.com/sivchari/govalid/pull/210
